@@ -1,7 +1,6 @@
 streamlit
-crewai==0.28.8
-langchain-openai
-pydantic<2.0
 openai
+pydantic
+
 
 
